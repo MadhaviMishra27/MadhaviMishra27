@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=900&lines=M.Sc.+AI+ML+Candidate+%40+IIIT+Lucknow;Generative+AI+%7C+LangChain+%7C+LLMs+%7C+RAG;Machine+Learning+%26+Deep+Learning+Specialist;Computer+Vision+%26+NLP+Developer;Passionate+about+MLOps+%26+Data+Science;Always+Learning+and+Innovating)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Let's+Build+Something+Great+Together!" alt="Welcome Animation" />
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="200" alt="Professional Animation" />
 
 </div>
 
