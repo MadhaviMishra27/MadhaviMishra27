@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi,%20I'm%20Pooja!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi,%20I'm%20Madhavi!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=MSc+AI+ML+%40+IIIT+Lucknow;Generative+AI+%7C+LLMs+%7C+LangChain+%7C+RAG;Machine+Learning+%26+Deep+Learning+Specialist;Computer+Vision+%26+MLOps+Explorer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=M.Sc.+AI+ML+%40+IIIT+Lucknow;Generative+AI+%7C+LLMs+%7C+LangChain+%7C+RAG;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;Building+Scalable+AI+Solutions;Kaggle+%26+Open-Source+Contributor)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="260"/>
 
@@ -18,38 +18,52 @@
 class AIMLStudent:
     def __init__(self):
         self.name = "Madhavi Mishra"
-        self.education = "MSc in AI & ML, IIIT Lucknow"
+        self.education = "M.Sc. in AI & ML, IIIT Lucknow (2024–2026)"
         self.skills = [
-            "Python", "TensorFlow", "PyTorch", "LangChain", "LLMs",
-            "Machine Learning", "Deep Learning", "Computer Vision", "NLP"
+            "Python", "TensorFlow", "PyTorch", "Transformers", "LangChain",
+            "Machine Learning", "Deep Learning", "Computer Vision", "NLP",
+            "SQL", "OpenCV"
         ]
         self.interests = [
-            "Generative AI", "MLOps", "Data Science", "Stock Market Analysis"
+            "Generative AI (LLMs)", "RAG Systems", "MLOps", "Data Science"
         ]
 
     def say_hi(self):
-        print("Building AI solutions with real-world impact!")
+        print("Driven to build scalable AI solutions with real-world impact.")
 
 me = AIMLStudent()
 me.say_hi()
 
 
 🧠 Technical Skills
-<p align="center"> <!-- Programming Languages --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <!-- AI/ML --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-FF4088?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <!-- Tools & Platforms --> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <!-- Core Skills --> <img src="https://img.shields.io/badge/DSA-0288D1?style=for-the-badge&logo=thealgorithms&logoColor=white" /> <img src="https://img.shields.io/badge/Mathematics-8E44AD?style=for-the-badge&logo=calculator&logoColor=white" /> <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge&logo=tableau&logoColor=white" /> </p>
+<p align="center"> <!-- Programming & Data --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <!-- AI/ML --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge&logo=apache%20spark&logoColor=white" /> <!-- Tools & Platforms --> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-(Basics)-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <!-- Core Foundations --> <img src="https://img.shields.io/badge/Linear_Algebra-8E44AD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/DSA-0288D1?style=for-the-badge&logo=thealgorithms&logoColor=white" /> </p>
+📂 Featured Projects
+Fine-Tuning NLP / LLM — BERT, LLaMA 2 (LoRA)
+Fine-tuned bert-base-uncased and applied LoRA-based fine-tuning on LLaMA 2 for sentiment classification and instruction-style generation on product reviews.
+
+Rain Forecasting (LightGBM) — Streamlit App — PyCaret, Streamlit
+Real-time rain prediction using historical weather data.
+🔗 Repo: https://github.com/MadhaviMishra27/Rain_Prediction_
+
+Weapon Detection System — YOLOv8, OpenCV
+Real-time detection with image/video uploads, bounding boxes, and confidence scores.
+
+Handwritten Text Recognition — CNN, OpenCV
+Deep-learning pipeline for handwritten text recognition.
+
+Stock Market Prediction w/ Reddit Sentiment — LSTM, Sentiment Analysis
+Combined price history with Reddit-derived sentiment signals.
 
 📊 GitHub Stats
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pooja30123&show_icons=true&theme=react&hide_border=true" /> <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja30123&layout=compact&theme=react&hide_border=true" /> </div>
-
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MadhaviMishra27&show_icons=true&theme=react&hide_border=true" /> <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhaviMishra27&layout=compact&theme=react&hide_border=true" /> </div>
 🏆 Achievements
-<div align="center">
+IIT JAM 2024 — AIR 972 in Mathematics (out of ~15,000 candidates)
 
-</div>
+Strong mathematical foundation + hands-on AI/ML and CV projects
 
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/> </div>
+Active on Kaggle and open-source
 
 🤝 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/pooja-verma-a61872317/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/pooja30123/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:poojaverma300702@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://leetcode.com/vpooja_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a> <a href="https://auth.geeksforgeeks.org/user/vpoojasmm2/"><img src="https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a> <a href="https://www.kaggle.com/vpooja30"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="https://drive.google.com/file/d/10ppmWhv9y7dvwNXzpBr5heypsZ6FHtIm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=readthedocs&logoColor=white" /></a> </p>
-
+<p align="center"> <a href="https://www.linkedin.com/in/madhavi-mishra-a95304320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/MadhaviMishra27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:madhavimishra2508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.kaggle.com/madhavimishra27"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> </p>
 
 
