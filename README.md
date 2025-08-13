@@ -2,13 +2,14 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,50:007D9C,100:00B4DB&height=200&section=header&text=Hi,%20I'm%20Madhavi!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Hi,%20I'm%20Madhavi!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=M.Sc.+AI+ML+%40+IIIT+Lucknow;Generative+AI+%7C+LLMs+%7C+LangChain+%7C+RAG;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;Kaggle+Competitor+%7C+Open-Source+Contributor;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=M.Sc.+AI+ML+%40+IIIT+Lucknow;Generative+AI+%7C+LLMs+%7C+LangChain+%7C+RAG;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;Kaggle+Competitor+%7C+Open-Source+Contributor;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="260"/>
 
 </div>
+
 
 
 ## 🚀 About Me
