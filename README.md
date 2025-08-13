@@ -1,15 +1,15 @@
 ## Hi there 👋
 
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Hi,%20I'm%20Madhavi!%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi,%20I'm%20Madhavi%20Mishra!%20👋&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&fontAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=M.Sc.+AI+ML+%40+IIIT+Lucknow;Generative+AI+%7C+LLMs+%7C+LangChain+%7C+RAG;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;Kaggle+Competitor+%7C+Open-Source+Contributor;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=24&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=900&lines=M.Sc.+AI+ML+Candidate+%40+IIIT+Lucknow;Generative+AI+%7C+LangChain+%7C+LLMs+%7C+RAG;Machine+Learning+%26+Deep+Learning+Specialist;Computer+Vision+%26+NLP+Developer;Passionate+about+MLOps+%26+Data+Science;Always+Learning+and+Innovating)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="260"/>
 
 </div>
-
 
 
 ## 🚀 About Me
