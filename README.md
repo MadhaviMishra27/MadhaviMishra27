@@ -6,9 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=900&lines=M.Sc.+AI+ML+Candidate+%40+IIIT+Lucknow;Generative+AI+%7C+LangChain+%7C+LLMs+%7C+RAG;Machine+Learning+%26+Deep+Learning+Specialist;Computer+Vision+%26+NLP+Developer;Passionate+about+MLOps+%26+Data+Science;Always+Learning+and+Innovating)](https://git.io/typing-svg)
 
-<!-- Replace the link below with your own uploaded banner -->
-<img src="https://raw.githubusercontent.com/MadhaviMishra27/MadhaviMishra27/main/assets/hello-banner.png" width="700" alt="Hello Banner"/>
-
 </div>
 
 ---
@@ -68,5 +65,5 @@ Strong mathematical foundation + hands-on AI/ML and CV projects
 Active on Kaggle and open-source
 
 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/madhavi-mishra-a95304320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/MadhaviMishra27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:madhavimishra2508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.kaggle.com/madhavimishra27"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/madhavi-mishra-a95304320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/MadhaviMishra27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:madhavimishra2508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.kaggle.com/madhavimishra27"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> </p> '''
 
