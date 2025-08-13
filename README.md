@@ -17,7 +17,7 @@
 ```python
 class AIMLStudent:
     def __init__(self):
-        self.name = "Pooja Verma"
+        self.name = "Madhavi Mishra"
         self.education = "MSc in AI & ML, IIIT Lucknow"
         self.skills = [
             "Python", "TensorFlow", "PyTorch", "LangChain", "LLMs",
