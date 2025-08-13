@@ -6,7 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=900&lines=M.Sc.+AI+ML+Candidate+%40+IIIT+Lucknow;Generative+AI+%7C+LangChain+%7C+LLMs+%7C+RAG;Machine+Learning+%26+Deep+Learning+Specialist;Computer+Vision+%26+NLP+Developer;Passionate+about+MLOps+%26+Data+Science;Always+Learning+and+Innovating)](https://git.io/typing-svg)
 
-<img src="https://github.com/kyechan99/capsule-render/blob/main/docs/images/demo2.svg?raw=true" width="800" alt="Professional Banner"/>
+<img src="https://raw.githubusercontent.com/itsmewulf/Hello-World-Animation/main/hello.svg" width="600" alt="Hello Animation"/>
+
 
 </div>
 
