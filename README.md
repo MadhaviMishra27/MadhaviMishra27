@@ -38,22 +38,42 @@
 ##Technical Skills
 <p align="center"> <!-- Programming Languages --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <!-- AI/ML --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge&logo=apache%20spark&logoColor=white" /> <!-- Tools & Platforms -->  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/ML-11557C?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/DL-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <!-- Core Foundations --> <img src="https://img.shields.io/badge/Linear_Algebra-8E44AD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/DSA-0288D1?style=for-the-badge&logo=thealgorithms&logoColor=white" /> </p>
 
-📂 Featured Projects
-Fine-Tuning NLP / LLM — BERT, LLaMA 2 (LoRA)
-Fine-tuned bert-base-uncased and applied LoRA-based fine-tuning on LLaMA 2 for sentiment classification and instruction-style generation on product reviews.
+## 📂 Featured Projects  
 
-Rain Forecasting (LightGBM) — Streamlit App — PyCaret, Streamlit
-Real-time rain prediction using historical weather data.
-🔗 Repo: https://github.com/MadhaviMishra27/Rain_Prediction_
+### 🔹 Fine-Tuning Large Language Models — *BERT, LLaMA 2 (LoRA)*  
+[🔗 GitHub Repo](https://github.com/MadhaviMishra27/finetuning)  
+- Applied LoRA-based parameter-efficient fine-tuning on **LLaMA 2** and **bert-base-uncased**, achieving **92% accuracy** across 205K reviews.  
+- Designed and deployed an interactive **Streamlit app** for real-time sentiment analysis and text generation.  
 
-Weapon Detection System — YOLOv8, OpenCV
-Real-time detection with image/video uploads, bounding boxes, and confidence scores.
+---
 
-Handwritten Text Recognition — CNN, OpenCV
-Deep-learning pipeline for handwritten text recognition.
+### 🔹 Retrieval-Augmented Generation (RAG) for Question Answering — *LLMs, LangChain*  
+[🔗 GitHub Repo](https://github.com/MadhaviMishra27/RAG)  
+- Built a **RAG pipeline** with Hugging Face, FAISS, and LangChain to improve factual accuracy in LLM responses.  
+- Implemented preprocessing for **document chunking, vector embeddings, and FAISS-based retrieval**.  
+- Integrated retriever with LLM to deliver **context-grounded answers** and minimize hallucinations.  
 
-Stock Market Prediction w/ Reddit Sentiment — LSTM, Sentiment Analysis
-Combined price history with Reddit-derived sentiment signals.
+---
+
+### 🔹 Rainfall Prediction — *LightGBM, PyCaret*  
+[🔗 GitHub Repo](https://github.com/MadhaviMishra27/Rain_Prediction_)  
+- Trained a **LightGBM model** on 10K+ records using PyCaret AutoML with feature engineering, outperforming baselines by **15%**.  
+- Deployed a **Streamlit app** for real-time rainfall prediction with interactive UI.  
+
+---
+
+### 🔹 Weapon Detection System — *YOLOv8, Computer Vision*  
+[🔗 GitHub Repo](https://github.com/MadhaviMishra27/weapon__detection)  
+- Developed a **real-time object detection system** using YOLOv8 trained on 21K+ annotated images.  
+- Integrated with a **Streamlit dashboard** for image/video uploads and on-screen bounding box visualization.  
+
+---
+
+### 🔹 Handwritten Text Recognition — *CNN, OpenCV*  
+[🔗 GitHub Repo](https://github.com/MadhaviMishra27/project_mlops_emnist)  
+- Built a **CNN-based recognition model** on the EMNIST dataset with regularization techniques.  
+- Improved performance with **data augmentation and OpenCV-based feature extraction**.  
+
 
 GitHub Stats
 <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MadhaviMishra27&show_icons=true&theme=react&hide_border=true" /> <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhaviMishra27&layout=compact&theme=react&hide_border=true" /> </div>
