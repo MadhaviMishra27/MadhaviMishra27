@@ -9,33 +9,34 @@
 </div>
 
 ---
-## 🚀 About Me
 
-```python
-class AIMLStudent:
-    def __init__(self):
-        self.name = "Madhavi Mishra"
-        self.education = "M.Sc. in AI & ML, IIIT Lucknow (2024–2026)"
-        self.skills = [
-            "Python", "TensorFlow", "PyTorch", "Transformers", "LangChain",
-            "Machine Learning", "Deep Learning", "Computer Vision", "NLP",
-            "SQL", "OpenCV"
-        ]
-        self.interests = [
-            "Generative AI (LLMs)", "RAG Systems", "MLOps", "Data Science"
-        ]
+## 🚀 About Me  
 
-    def say_hi(self):
-        print("Driven to build scalable AI solutions with real-world impact.")
+### 👩‍💻 Madhavi Mishra  
+*M.Sc. in Artificial Intelligence & Machine Learning, IIIT Lucknow (2024–2026)*  
 
-me = AIMLStudent()
-me.say_hi()
+---
+
+### 🛠 Skills  
+✔️ Python • TensorFlow • PyTorch • Transformers • LangChain  
+✔️ Machine Learning • Deep Learning • Computer Vision • NLP  
+✔️ SQL • OpenCV  
+
+---
+
+### 🎯 Interests  
+🔹 Generative AI (LLMs)  
+🔹 RAG Systems  
+🔹 MLOps  
+🔹 Data Science  
+
+---
+
+💡 *“Driven to build scalable AI solutions with real-world impact.”*
 
 
 
-
-
-
+```
 ##Technical Skills
 <p align="center"> <!-- Programming Languages --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <!-- AI/ML --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge&logo=apache%20spark&logoColor=white" /> <!-- Tools & Platforms -->  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/ML-11557C?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/DL-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <!-- Core Foundations --> <img src="https://img.shields.io/badge/Linear_Algebra-8E44AD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/DSA-0288D1?style=for-the-badge&logo=thealgorithms&logoColor=white" /> </p>
 
