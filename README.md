@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-```python
+python
 class AIMLStudent:
     def __init__(self):
         self.name = "Madhavi Mishra"
@@ -32,7 +32,7 @@ class AIMLStudent:
 me = AIMLStudent()
 me.say_hi()
 
-```
+
 
 
 
