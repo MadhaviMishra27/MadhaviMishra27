@@ -57,7 +57,7 @@
 ## 📂 Featured Projects
 
 ### 🔹 Document Q&A Chatbot using Local RAG System — *LLMs, LangChain, ChromaDB*  
-[🔗 GitHub Repo]([https://github.com/MadhaviMishra27/document-qa-chatbot](https://github.com/MadhaviMishra27/Document-Q-A-Chatbot))  
+[🔗 GitHub Repo](https://github.com/MadhaviMishra27/Document-Q-A-Chatbot)  
 - Developed fully local RAG pipeline with **Streamlit UI, ChromaDB vector storage**, and multiple open-source LLMs for private document Q&A
 - Engineered **PDF processing, semantic search**, and interactive dashboard with configurable retrieval and source context visualization
 - Built **end-to-end private document processing** system ensuring data privacy with local embeddings and vector storage
