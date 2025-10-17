@@ -45,10 +45,11 @@
   <a href="https://drive.google.com/file/d/1zG_Tkyxoq6FM3h5-nL5ABHPTHSDSKj-u/view" target="_blank">
     <img src="https://img.shields.io/badge/👁️_View_Resume-1a2a6c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <!-- Download Resume Button -->
+  <!-- Download Resume Button 
   <a href="https://drive.google.com/uc?export=download&id=1zG_Tkyxoq6FM3h5-nL5ABHPTHSDSKj-u">
     <img src="https://img.shields.io/badge/📥_Download_Resume-b21f1f?style=for-the-badge&logo=download&logoColor=white" />
   </a>
+  -->
 </p>
 
 
