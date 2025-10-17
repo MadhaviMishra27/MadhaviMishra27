@@ -41,23 +41,16 @@
 ## 📄 Resume  
 
 <p align="center">
-  <a href="https://github.com/MadhaviMishra27/MadhaviMishra27/raw/main/Madhavi_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-1a2a6c?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <!-- View Resume Button -->
+  <a href="https://drive.google.com/file/d/1zG_Tkyxoq6FM3h5-nL5ABHPTHSDSKj-u/view" target="_blank">
+    <img src="https://img.shields.io/badge/👁️_View_Resume-1a2a6c?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-  <a href="https://github.com/MadhaviMishra27/MadhaviMishra27/raw/main/your-resume-filename.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-b21f1f?style=for-the-badge&logo=download&logoColor=white" />
+  <!-- Download Resume Button -->
+  <a href="https://drive.google.com/uc?export=download&id=1zG_Tkyxoq6FM3h5-nL5ABHPTHSDSKj-u">
+    <img src="https://img.shields.io/badge/📥_Download_Resume-b21f1f?style=for-the-badge&logo=download&logoColor=white" />
   </a>
 </p>
 
----
-
-## 📄 Resume  
-
-<p align="center">
-  <a href="[https://drive.google.com/file/d/1XYZabc123456/view?usp=sharing](https://drive.google.com/file/d/1zG_Tkyxoq6FM3h5-nL5ABHPTHSDSKj-u/view?usp=sharing)" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-1a2a6c?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-</p> 
 
 
 ## 📂 Featured Projects  
