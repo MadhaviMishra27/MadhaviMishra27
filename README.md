@@ -38,6 +38,17 @@
 ##Technical Skills
 <p align="center"> <!-- Programming Languages --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <!-- AI/ML --> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge&logo=apache%20spark&logoColor=white" /> <!-- Tools & Platforms -->  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/ML-11557C?style=for-the-badge&logo=plotly&logoColor=white" /> <img src="https://img.shields.io/badge/DL-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <!-- Core Foundations --> <img src="https://img.shields.io/badge/Linear_Algebra-8E44AD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/DSA-0288D1?style=for-the-badge&logo=thealgorithms&logoColor=white" /> </p>
 
+---
+
+## 📄 Resume  
+
+<p align="center">
+  <a href="[https://drive.google.com/file/d/1XYZabc123456/view?usp=sharing](https://drive.google.com/file/d/1zG_Tkyxoq6FM3h5-nL5ABHPTHSDSKj-u/view?usp=sharing)" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-1a2a6c?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
+
+
 ## 📂 Featured Projects  
 
 ### 🔹 Fine-Tuning Large Language Models — *BERT, LLaMA 2 (LoRA)*  
