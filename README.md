@@ -54,7 +54,15 @@
 
 
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
+
+### 🔹 Document Q&A Chatbot using Local RAG System — *LLMs, LangChain, ChromaDB*  
+[🔗 GitHub Repo](https://github.com/MadhaviMishra27/document-qa-chatbot)  
+- Developed fully local RAG pipeline with **Streamlit UI, ChromaDB vector storage**, and multiple open-source LLMs for private document Q&A
+- Engineered **PDF processing, semantic search**, and interactive dashboard with configurable retrieval and source context visualization
+- Built **end-to-end private document processing** system ensuring data privacy with local embeddings and vector storage
+
+---
 
 ### 🔹 Fine-Tuning Large Language Models — *BERT, LLaMA 2 (LoRA)*  
 [🔗 GitHub Repo](https://github.com/MadhaviMishra27/finetuning)  
@@ -63,13 +71,6 @@
 
 ---
 
-### 🔹 Retrieval-Augmented Generation (RAG) for Question Answering — *LLMs, LangChain*  
-[🔗 GitHub Repo](https://github.com/MadhaviMishra27/RAG)  
-- Built a **RAG pipeline** with Hugging Face, FAISS, and LangChain to improve factual accuracy in LLM responses.  
-- Implemented preprocessing for **document chunking, vector embeddings, and FAISS-based retrieval**.  
-- Integrated retriever with LLM to deliver **context-grounded answers** and minimize hallucinations.  
-
----
 
 ### 🔹 Rainfall Prediction — *LightGBM, PyCaret*  
 [🔗 GitHub Repo](https://github.com/MadhaviMishra27/Rain_Prediction_)  
