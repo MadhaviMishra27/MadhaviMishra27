@@ -6,14 +6,6 @@
 
 </div>
 
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=200&section=header&text=Hi,%20I'm%20Madhavi%20Mishra!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=F5F5F5&center=true&vCenter=true&width=900&lines=M.Sc.+AI+ML+Candidate+%40+IIIT+Lucknow;Generative+AI+%7C+LangChain+%7C+LLMs+%7C+RAG;Machine+Learning+%26+Deep+Learning+Specialist;Computer+Vision+%26+NLP+Developer;Passionate+about+MLOps+%26+Data+Science;Always+Learning+and+Innovating)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🚀 About Me  
